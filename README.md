@@ -1,4 +1,4 @@
 # soundness
 
-chmod +x soundness.sh
-./soundness.sh
+chmod +x setup.sh
+./setup.sh
